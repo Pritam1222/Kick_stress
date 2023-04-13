@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kick Stress</string>
+  <string name="app_changelog_url">https://google.com</string>
+  <string name="app_github_url">https://github.com</string>
+  <string name="app_issues_github_url">https://github.com</string>
+  <string name="app_issues_form_url">
+    https://docs.google.com/forms/d/1CKH5y45bcyBDVgEkT5ah2xc1wXxUl2LWW-0KzCxfKl8/viewform?usp=sf_link
+  </string>
+  <string name="feedback_form_url">
+    https://docs.google.com/forms/d/1ObN_aDNvMsjOIiYopzTRrLNnKM2zzI59Rl2jKUlfRhU/viewform?usp=sf_link
+  </string>
+  <string name="plus1m">1m</string>
+  <string name="plus5m">5m</string>
+  <string name="plus30m">30m</string>
+  <string name="plus1h">1h</string>
+  <string name="plus4h">4h</string>
+  <string name="plus8h">8h</string>
+  <string name="presets_as_home_screen_key">pref_saved_presets_as_homescreen</string>
+  <string name="sound_fade_duration_key">sound_fade_duration</string>
+  <string name="sound_fade_in_duration_key">sound_fade_in_duration</string>
+  <string name="app_theme_key">app_theme</string>
+  <string name="ignore_audio_focus_changes_key">ignore_audio_focus_changes</string>
+  <string name="import_presets_key">import_presets</string>
+  <string name="export_presets_key">export_presets</string>
+  <string name="remove_all_app_shortcuts_key">remove_all_app_shortcuts</string>
+  <string name="should_display_sound_icons_key">should_display_sound_icons</string>
+  <string name="others_key">others</string>
+  <string name="should_share_usage_data_key">should_share_usage_data</string>
+  <string name="enable_media_buttons_key">enable_media_buttons</string>
+  <string name="open_collective_url">https://opencollective.com/noice</string>
+  <string name="play_store_url">https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice</string>
+</resources>

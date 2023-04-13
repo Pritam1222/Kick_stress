@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Hakkında</string>
+    <string name="app_theme">Tema</string>
+    <string name="help">Yardım</string>
+    <string name="library">Kütüphane</string>
+    <string name="report_issue">Sorun Bildir</string>
+    <string name="presets">Kayıtlar</string>
+    <string name="sleep_timer">Uyku Zamanlayıcı</string>
+    <string name="support_development">Geliştiriciyi Destekle</string>
+    <string name="wake_up_timer">Uyandırma Zamanlayıcı</string>
+    <string name="mood_any">Herhangi</string>
+    <string name="intensity_any">Herhangi</string>
+    <string name="dense">Çeşitli</string>
+    <string name="focus">Odaklanmak</string>
+    <string name="intensity">Çeşitlilik</string>
+    <string name="light">Sade</string>
+    <string name="mood">Amaç</string>
+    <string name="okay">Tamam</string>
+    <string name="random_preset">Rastgele kayıt</string>
+    <string name="relax">Rahatlamak</string>
+    <string name="cancel">İptal</string>
+    <string name="dismiss">Kapat</string>
+    <string name="name">İsim</string>
+    <string name="pause">Durdur</string>
+    <string name="preset_already_exists">Verilen isimde bir kayıt zaten mevcut!</string>
+    <string name="preset_name_cannot_be_empty">Kayıt ismi boş bırakılamaz!</string>
+    <string name="preset_saved">Kayıt oluşturuldu!</string>
+    <string name="save">Kaydet</string>
+    <string name="save_preset">Kayıt Oluştur</string>
+    <string name="play">Oynat</string>
+    <string name="play_pause">oynat ya da durdur</string>
+    <string name="repeat_time_period">Zamanı tekrarla</string>
+    <string name="stop">Bitir</string>
+    <string name="volume">Ses seviyesi</string>
+    <string name="sound_group__life">Yaşam</string>
+    <string name="sound_group__monsoon">Muson</string>
+    <string name="sound_group__public_gatherings">Kalabalık</string>
+    <string name="sound_group__raw_noise">Kuru Grültü</string>
+    <string name="sound_group__times_of_day">Günün Zamanları</string>
+    <string name="sound_group__vehicles">Araçlar</string>
+    <string name="sound_group__water">Su</string>
+    <string name="sound_group__wind">Rüzgar</string>
+    <string name="airplane_inflight">Uçak yolculuğu</string>
+    <string name="airplane_seatbelt_beeps">Uçak kemer uyarıları</string>
+    <string name="birds">Kuşlar</string>
+    <string name="bonfire">Kamp ateşi</string>
+    <string name="brownian_noise">Kahverengi gürültü</string>
+    <string name="coffee_shop">Kahve dükkanı</string>
+    <string name="creaking_ship">Gıcırdayan gemi</string>
+    <string name="crickets">Cırcır böcekleri</string>
+    <string name="distant_thunder">Uzak gök gürültüsü</string>
+    <string name="electric_car">Elektrikli araba</string>
+    <string name="heavy_rain">Şiddetli yağmur</string>
+    <string name="howling_wolf">Kurt uluması</string>
+    <string name="human_heartbeat">İnsan kalp atışı</string>
+    <string name="light_rain">Hafif yağmur</string>
+    <string name="moderate_rain">Normal yağmur</string>
+    <string name="morning_in_a_village">Köyde bir sabah</string>
+    <string name="moving_train">Hareket eden tren</string>
+    <string name="night">Gece</string>
+    <string name="office">Ofis</string>
+    <string name="pink_noise">Pembe gürültü</string>
+    <string name="public_library">Halk kütüphanesi</string>
+    <string name="purring_cat">Kedi mırıltısı</string>
+    <string name="quiet_conversation">Kısık sesle konuşma</string>
+    <string name="rolling_thunder">Gök gürlemesi</string>
+    <string name="screeching_seagulls">Martı çığlıkları</string>
+    <string name="seaside">Sahil</string>
+    <string name="soft_wind">Rüzgar</string>
+    <string name="thunder_crack">Gök gürültüsü</string>
+    <string name="train_horn">Tren kornası</string>
+    <string name="walking_through_the_snow">Karda yürümek</string>
+    <string name="water_hose">Sulama hortumu</string>
+    <string name="water_stream">Su kaynağı</string>
+    <string name="white_noise">Beyaz gürültü</string>
+    <string name="wind_in_chimes_of_shells">Deniz kabuğu çıngırtısı</string>
+    <string name="wind_in_palm_trees">Palmiye hışırtıları</string>
+    <string name="add_to_home_screen">Ana ekrana ekle</string>
+    <string name="delete">Sil</string>
+    <string name="open_context_menu">İçerik menüsünü aç</string>
+    <string name="preset_delete_confirmation">%s kaydını silmeyi onaylıyor musunuz?</string>
+    <string name="preset_deleted">Kayıt silindi!</string>
+    <string name="preset_does_not_exist">Kayıt mevcut değil. Silinmiş olabilir!</string>
+    <string name="preset_info__description">
+    Henüz hiçbir kayıt oluşturmadınız. Kayıt oluşturmak için Kütüphane\'ye gidin
+    ve birkaç ses oynatın. Sonra da ekranın alt köşesindeki Kaydet tuşuna basın.
+  </string>
+    <string name="rename">Yeniden adlandır</string>
+    <string name="pinned_shortcuts_not_supported">Başlatıcınız kısa yol eklemeyi desteklemiyor.</string>
+    <string name="auto_sleep_schedule_cancelled">Otomatik uyku zamanlayıcısı iptal edildi!</string>
+    <string name="reset">Sıfırla</string>
+    <string name="sleep_timer_description">
+    Süre bittiğinde sesler kesilecektir. Zamanlamak için aşağıdaki tuşları kullanın.
+  </string>
+    <string name="schedule">Zamanla</string>
+    <string name="select_preset">Kayıt Seç</string>
+    <string name="wake_up_timer_cancelled">Uyandırma zamanlayıcısı iptal edildi!</string>
+    <string name="wake_up_timer_description">
+    Zamanı geldiğinde kayıt başlayacaktır. Kayıt seçmek ve zamanlamak için
+    aşağıdaki tuşları kullanın.
+  </string>
+    <string name="app_theme_light">Açık</string>
+    <string name="app_theme_dark">Koyu</string>
+    <string name="app_theme_system_default">Sistem Varsayılanı</string>
+    <string name="app_description">Hafif bir arka plan sesiyle rahatlayın ve üretkenliğinizi arttırın.</string>
+    <string name="appintro__chromecast_desc">
+    Kick Stress kullanarak hoparlör, TV vb. Chromecast kullanan cihazlara ambiyansı
+    yansıtabilirsiniz.
+  </string>
+    <string name="appintro__chromecast_title">Chromecast</string>
+    <string name="appintro__getting_started_desc_0">Tüm özellikleri öğrenmek için sola kaydırın!</string>
+    <string name="appintro__getting_started_desc_1">Hadi başlayalım!</string>
+    <string name="appintro__getting_started_title">Hoş geldiniz</string>
+    <string name="appintro__presets_desc">Birkaç ses oynattıktan sonra alttaki tuşu kullanarak karışımınızı kaydedeblirsiniz. Kaydettiğiniz bir karışımı yeniden kullanmak için gezinti çubuğundan Kayıtlar listesini ziyaret edin.</string>
+    <string name="appintro__presets_title">En sevdiğin karışımları kaydet</string>
+    <string name="appintro__library_desc">
+    Ses ayarıyla sese özel ses seviyesini ayarlayabilirken, zaman ayarıyla
+    döngüdeki seslerin tekrar etme sıklığını ayarlayabilirsiniz.
+  </string>
+    <string name="appintro__library_title">Mükemmel ortamınızı yaratın</string>
+    <string name="appintro__timer_desc">
+    Ufak bir ambiyans uyumanızda yardımcı olabilir. Uyku Zamanlayıcı ile sesin
+    kendiliğinden kesilmesini sağlayabilir, sakin bir ortamda uyanmak içinse
+    Uyandırma Zamanlayıcı kullanabilirsiniz.
+  </string>
+    <string name="appintro__timer_title">Uyku sorunlarınız mı var?</string>
+    <string name="support_development__donate">Bağışta bulunun</string>
+    <string name="support_development__donate_description">
+    Bağışlarınız bize şunları sağlar\n
+    - yeni özellikler için yatırım\n
+    - daha iyi ve kaliteli sesler\n
+    - kahve almak\n
+  </string>
+    <string name="support_development__donate_google_play_description">Ödemeniz Google Play ile güvenli bir şekilde gerçekleşecektir. Konumunuza bağlı olarak son tutara _belki_ vergi eklenebilir.</string>
+    <string name="support_development__donate_thank_you">Teşekkür ederiz!</string>
+    <string name="support_development__donate_thank_you_description">
+    Kick Stress projesine olan cömertçe katkınızdan dolayı tüm içtenliğimizle teşekkür ederiz.
+  </string>
+    <string name="support_development__share">Arkadaşlarınızla paylaşın</string>
+    <string name="support_development__share_description">
+    Kick Stress\'i arkadaşlarınızla paylaşmanız para bağışlamanız kadar faydalıdır.
+    Daha fazla indirme, Kick Stress\'i daha iyi bir seviyeye doğru geliştirmekte
+    yardımcı olacak çeşitli geri dönüşler elde etmemizi sağlayabilir.
+  </string>
+    <string name="support_development__why">Neden desteklemelisiniz?</string>
+    <string name="support_development__why_description">
+    - Gelecek güncellemeleri mümkün kılmak için\n
+    - Kick Stress\'in reklamsız kalmasını sağlamak için\n
+  </string>
+    <string name="cast_media">Chromecast\'e bağlan</string>
+    <string name="in_app_feedback__description">
+    GitHub adresimizi ziyaret edip düşüncelerinizi bizimle paylaşmanızdan
+    mutluluk duyarız. Eğer uygulamayı beğenmediyseniz lütfen yeni bir sorun açıp
+    düşüncelerinizi bizimle paylaşın. Beğendiyseniz lütfen projeyi yıldızlayarak
+    sevgi ve desteklerinizi bizden esirgemeyin.
+  </string>
+    <string name="in_app_feedback__title">Değerlendirme yap</string>
+    <string name="later">Sonra</string>
+    <string name="never">Asla</string>
+    <string name="notification_channel_default__description">Arka plan oynatıcı ayarları</string>
+    <string name="notification_channel_default__name">Arka Plan Oynatıcı</string>
+    <string name="presets_as_home_screen_summary">Uygulama başlangıcında \"mevcut kayıtları\" göster (uygulamanın yeniden başlatılmasını gerektirir)</string>
+    <string name="submit_feedback">Geri Bildirim Gönder</string>
+    <plurals name="time_minutes">
+        <item quantity="one">%1$d dakika</item>
+        <item quantity="other">%1$d dakika</item>
+    </plurals>
+    <plurals name="time_hours">
+        <item quantity="one">%1$d saat</item>
+        <item quantity="other">%1$d saat</item>
+    </plurals>
+    <string name="time_bridge">ve</string>
+    <string name="wake_up_timer_schedule_set">Alarm %1$s %2$s %3$s içinde çalacak</string>
+    <string name="random_preset_description">Oluşturulan rastgele kayıtlar, seçilen amaca karşılık gelen sesleri içerecektir. Dahası, çeşitli kayıtlar aynı anda daha fazla ses çalmaya çalışacaktır.</string>
+    <string name="app_authors">Kick Stress yazarlarının listesini görüntüle</string>
+    <string name="app_shortcut_creation_failed">Kayıt, uygulama kısayollarına eklenemedi!</string>
+    <string name="app_shortcut_created">Kayıt, uygulama kısayollarına eklendi!</string>
+    <string name="app_shortcut_removed">Kayıt, uygulama kısayollarından kaldırıldı!</string>
+    <string name="remove_from_app_shortcuts">Uygulama kısayollarından kaldır</string>
+    <string name="add_to_app_shortcuts">Uygulama kısayollarına ekle</string>
+    <string name="pinned_shortcut_created">Kısayol ana ekrana eklendi!</string>
+    <string name="pinned_shortcut_creation_failed">Kısayol ana ekrana eklenemedi!</string>
+    <string name="appearance">Görünüm</string>
+    <string name="behavior">Davranış</string>
+    <string name="presets_as_home_screen">Ana ekran olarak \"mevcut kayıtlar\"</string>
+    <string name="settings">Ayarlar</string>
+    <string name="share">Paylaş</string>
+    <string name="ignore_audio_focus_changes_summary_on">Diğer uygulamalar ses oynatırken tepki verme</string>
+    <string name="ignore_audio_focus_changes_summary_off">Diğer uygulamalar ses oynatırken duraklat</string>
+    <string name="ignore_audio_focus_changes">Ses odaklanma değişikliklerini yok say</string>
+    <string name="unsaved_preset">Kaydedilmemiş Kayıt</string>
+    <string name="skip_to_next">Sonraki kayıt</string>
+    <string name="skip_to_prev">Önceki kayıt</string>
+    <string name="invalid_import_file_format">İçe aktarma dosya biçimi geçersiz!</string>
+    <string name="failed_to_read_file">Seçili dosyayı okuma başarısız oldu!</string>
+    <string name="failed_to_write_file">Seçili dosyaya yazma başarısız oldu!</string>
+    <string name="all_app_shortcuts_removed">Tüm uygulama kısayolları kaldırıldı!</string>
+    <string name="remove_all_app_shortcuts_confirmation">Tüm kayıt kısayolları uygulama kısayol menüsünden kaldırılacaktır. Devam etmek istiyor musunuz\?</string>
+    <string name="remove_all_app_shortcuts">Tüm uygulama kısayollarını kaldır</string>
+    <string name="import_presets_summary">Kaydedilmiş kayıtları harici bir dosyadan içe aktarmak, varsa mevcut kayıtların üzerine yazacaktır</string>
+    <string name="import_presets">Bir dosyadan içe aktar</string>
+    <string name="export_presets_summary">Kaydedilen kayıtların mevcut anlık görüntüsünü harici bir dosyaya aktarın</string>
+    <string name="export_presets">Bir dosyaya aktar</string>
+    <string name="should_display_sound_icons">Ses simgelerini göster</string>
+    <string name="payment_pending">Ödemenizi işlemeyi bitirir bitirmez sizi bilgilendireceğiz.</string>
+    <string name="failed_to_purchase">Ödeme akışı başlatılamadı. Lütfen daha sonra tekrar deneyin!</string>
+    <string name="failed_to_load_inapp_purchases">Uygulama içi satın alma ayrıntıları yüklenemedi. Lütfen daha sonra tekrar deneyin!</string>
+    <string name="should_share_usage_data_summary">Kullanım ve davranış verilerini geliştiricilerle otomatik olarak paylaşın</string>
+    <string name="should_share_usage_data">Kullanım ve davranış verilerini paylaş</string>
+    <string name="others">Diğer</string>
+    <string name="decline">Reddet</string>
+    <string name="accept">Kabul et</string>
+    <string name="share_usage_data_consent_message">Kullanıcı deneyimini iyileştirmek için uygulama kullanım verilerini topluyoruz. Ayrıca, uygulama kullanımı sırasında karşılaşılan hataları çözümlemek ve teşhis etmek için uygulama davranış verilerini topluyoruz. Daha fazla bilgi için [gizlilik politikamızı](https://ashutoshgngwr.github.io/noice/privacy-policy) okuyun.
+\n
+\n \"**Ayarlar** &gt; **Kullanım ve davranış verilerini paylaş**\" seçeneğine giderek uygulama içinde istediğiniz zaman otomatik veri paylaşımını yapılandırabilirsiniz.</string>
+    <string name="share_usage_data_consent_title">Veri Paylaşımı Tercihleri</string>
+    <string name="created_by">Oluşturan</string>
+    <string name="sound_fade_in_duration_summary">Azalan sesler için süre (saniye cinsinden)</string>
+    <string name="sound_fade_in_duration">Ses azalma süresi</string>
+    <string name="import_presets_successful">Kayıtlar dosyadan başarıyla içe aktarıldı!</string>
+    <string name="export_presets_successful">Kayıtlar başarıyla dosyaya aktarıldı!</string>
+    <string name="enable_media_buttons_summary">Oynatmayı denetlemek için donanımsal ortam düğmelerini kullanın</string>
+    <string name="enable_media_buttons">Ortam düğmelerini etkinleştir</string>
+</resources>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Tentang</string>
+    <string name="app_theme">Tema</string>
+    <string name="help">Bantuan</string>
+    <string name="library">Perpustakaan</string>
+    <string name="report_issue">Laporkan Masalah</string>
+    <string name="presets">Preset</string>
+    <string name="sleep_timer">Pengatur Waktu Tidur</string>
+    <string name="support_development">Dukung Pengembangan</string>
+    <string name="wake_up_timer">Pengatur Waktu Bangun</string>
+    <string name="okay">Oke</string>
+    <string name="cancel">Batal</string>
+    <string name="dismiss">Singkirkan</string>
+    <string name="name">Nama</string>
+    <string name="pause">Jeda</string>
+    <string name="preset_already_exists">Preset dengan nama yang diberikan sudah ada!</string>
+    <string name="preset_name_cannot_be_empty">Nama preset tidak boleh kosong!</string>
+    <string name="preset_saved">Preset disimpan!</string>
+    <string name="save">Simpan</string>
+    <string name="save_preset">Simpan Preset</string>
+    <string name="play">Mainkan</string>
+    <string name="play_pause">putar atau jeda</string>
+    <string name="repeat_time_period">Ulangi periode waktu</string>
+    <string name="stop">Berhenti</string>
+    <string name="volume">Volume suara</string>
+    <string name="sound_group__life">Kehidupan</string>
+    <string name="sound_group__monsoon">Musim</string>
+    <string name="sound_group__public_gatherings">Pertemuan Umum</string>
+    <string name="sound_group__raw_noise">Kebisingan Mentah</string>
+    <string name="sound_group__times_of_day">Waktu</string>
+    <string name="sound_group__vehicles">Kendaraan</string>
+    <string name="sound_group__water">Air</string>
+    <string name="sound_group__wind">Angin</string>
+    <string name="airplane_inflight">Pesawat dalam penerbangan</string>
+    <string name="airplane_seatbelt_beeps">Bunyi sabuk pengaman pesawat</string>
+    <string name="birds">Burung</string>
+    <string name="bonfire">Api unggun</string>
+    <string name="brownian_noise">Kebisingan brownian</string>
+    <string name="coffee_shop">Kedai kopi</string>
+    <string name="creaking_ship">Kapal pecah</string>
+    <string name="crickets">Jangkrik</string>
+    <string name="distant_thunder">Gemuruh di kejauhan</string>
+    <string name="electric_car">Mobil listrik</string>
+    <string name="heavy_rain">Hujan deras</string>
+    <string name="howling_wolf">Serigala melolong</string>
+    <string name="human_heartbeat">Detak jantung manusia</string>
+    <string name="light_rain">Hujan ringan</string>
+    <string name="moderate_rain">Hujan sedang</string>
+    <string name="morning_in_a_village">Pagi di desa</string>
+    <string name="moving_train">Kereta bergerak</string>
+    <string name="night">Malam</string>
+    <string name="office">Kantor</string>
+    <string name="pink_noise">Kebisingan merah muda</string>
+    <string name="public_library">Perpustakaan umum</string>
+    <string name="purring_cat">Mendengkur kucing</string>
+    <string name="quiet_conversation">Percakapan senyap</string>
+    <string name="rolling_thunder">Gemuruh bergulir</string>
+    <string name="screeching_seagulls">Burung camar yang melengking</string>
+    <string name="seaside">Tepi laut</string>
+    <string name="soft_wind">Angin lembut</string>
+    <string name="thunder_crack">Gemuruh retak</string>
+    <string name="train_horn">Klakson kereta</string>
+    <string name="walking_through_the_snow">Berjalan melintasi salju</string>
+    <string name="water_hose">Selang air</string>
+    <string name="water_stream">Aliran air</string>
+    <string name="white_noise">Kebisingan putih</string>
+    <string name="wind_in_chimes_of_shells">Angin di lonceng kerang</string>
+    <string name="wind_in_palm_trees">Angin di pohon palem</string>
+    <string name="delete">Hapus</string>
+    <string name="open_context_menu">Buka menu konteks</string>
+    <string name="preset_delete_confirmation">Konfirmasi hapus %s?</string>
+    <string name="preset_deleted">Preset dihapus!</string>
+    <string name="preset_info__description">
+    Anda belum membuat preset apa pun. Untuk membuat preset, buka Perpustakaan dan putar suara.
+    Kemudian klik tombol Simpan yang muncul di sudut bawah layar.
+</string>
+    <string name="rename">Ganti nama</string>
+    <string name="auto_sleep_schedule_cancelled">Pengatur waktu tidur otomatis telah dibatalkan!</string>
+    <string name="reset">Setel ulang</string>
+    <string name="sleep_timer_description">
+    Kick Stress akan mati sendiri ketika timer berakhir. Gunakan tombol di bawah untuk menambahkan waktu dan memulai
+    pengatur waktu.
+</string>
+    <string name="schedule">Jadwal</string>
+    <string name="select_preset">Pilih Preset</string>
+    <string name="wake_up_timer_description">
+    Kick Stress akan memulai preset yang dipilih saat timer berakhir. Gunakan tombol di bawah untuk memilih a
+    preset dan atur waktu yang diinginkan untuk memulai pengatur waktu bangun.
+</string>
+    <string name="app_theme_light">Terang</string>
+    <string name="app_theme_dark">Gelap</string>
+    <string name="app_theme_system_default">Sistem default</string>
+    <string name="app_description">Santai dan tingkatkan produktivitas dengan kebisingan latar belakang minimal.</string>
+    <string name="appintro__chromecast_desc">
+    Gunakan Kick Stress untuk mentransmisikan suasananya ke perangkat berkemampuan Chromecast lainnya seperti speaker, TV, dll.
+ </string>
+    <string name="appintro__chromecast_title">Chromecast diaktifkan</string>
+    <string name="appintro__getting_started_desc_0">Geser ke kiri untuk mengenal semua fitur!</string>
+    <string name="appintro__getting_started_desc_1">Mari kita mulai!</string>
+    <string name="appintro__getting_started_title">Selamat Datang</string>
+    <string name="appintro__presets_desc">Setelah memainkan beberapa suara, Anda dapat menggunakan tombol simpan di sudut ujung bawah untuk menyimpan campuran Anda. Untuk menggunakan kembali campuran yang disimpan, buka daftar preset dari bilah bawah.</string>
+    <string name="appintro__presets_title">Simpan campuran favorit Anda</string>
+    <string name="appintro__library_desc">
+    Gunakan penggeser volume untuk menyesuaikan volume suara. Pada setiap pengulangan suara non-looping, terjadi penundaan
+    periode dipilih secara acak dari rentang yang ditetapkan oleh penggeser waktu.
+ </string>
+    <string name="appintro__library_title">Ciptakan lingkungan Anda yang sempurna</string>
+    <string name="appintro__timer_desc">
+    Sedikit suasana dapat membantu Anda tertidur dengan mudah. Gunakan pengatur waktu tidur untuk menutup Kick Stress
+    secara otomatis. Demikian pula, untuk bangun di lingkungan yang tenang, gunakan pengatur waktu bangun untuk menyetel alarm.
+ </string>
+    <string name="appintro__timer_title">Kesulitan tidur atau bangun?</string>
+    <string name="support_development__donate">Donasi</string>
+    <string name="support_development__donate_description">
+    Donasi akan membantu kami dalam \n
+    - berinvestasi dalam fitur baru \n
+    - membuat sampel suara yang lebih baik \n
+    - membeli kopi \n
+ </string>
+    <string name="support_development__donate_google_play_description">Pembayaran Anda akan ditangani dengan aman oleh Google Play. Tergantung pada lokasi Anda, pajak tambahan _mungkin_ ditambahkan ke jumlah akhir.</string>
+    <string name="support_development__donate_thank_you">Terima kasih!</string>
+    <string name="support_development__donate_thank_you_description">Kami berterima kasih dengan sepenuh hati atas kemurahhatian Anda untuk berkontribusi dalam proyek Kick Stress.</string>
+    <string name="support_development__share">Bagikan dengan teman</string>
+    <string name="support_development__share_description">
+    Berbagi Kick Stress dengan teman sama dengan mendonasikan uang. Dengan unduhan yang lebih tinggi, kami
+    akan dapat menerima umpan balik dari sejumlah berbagai perspektif yang akan membantu kami
+    membuat Kick Stress lebih baik dari sebelumnya.
+ </string>
+    <string name="support_development__why">Mengapa Anda harus mendukung?</string>
+    <string name="support_development__why_description">
+    - Untuk memungkinkan pembaruan di masa mendatang \n
+    - Untuk membuat Kick Stress bebas iklan selamanya \n
+ </string>
+    <string name="cast_media">Hubungkan ke Chromecast</string>
+    <string name="in_app_feedback__description">
+    Kami ingin sekali mendengar dari Anda tentang aplikasi ini. Mohon luangkan waktu sejenak untuk mengunjungi repositori GitHub kami.
+    Jika Anda tidak menyukai aplikasinya, pertimbangkan untuk membuka masalah yang menjelaskan kekhawatiran Anda.
+    Jika tidak, bintangi proyek tersebut untuk menunjukkan cinta dan dukungan.
+ </string>
+    <string name="in_app_feedback__title">Kirimkan ulasan</string>
+    <string name="later">Nanti</string>
+    <string name="never">Tidak pernah</string>
+    <string name="notification_channel_default__description">Kontrol pemutaran media</string>
+    <string name="notification_channel_default__name">Pemutaran Media</string>
+    <string name="pinned_shortcuts_not_supported">Launcher default anda tidak mendukung untuk menambahkan shortcuts.</string>
+    <string name="preset_does_not_exist">Preset tidak tersedia. Mungkin sudah dihapus!</string>
+    <string name="add_to_home_screen">Tambahkan di layar utama</string>
+    <string name="relax">Rileks</string>
+    <string name="random_preset">Preset Acak</string>
+    <string name="mood">Suasana</string>
+    <string name="light">Cahaya</string>
+    <string name="focus">Fokus</string>
+    <string name="mood_any">Apapun</string>
+    <string name="intensity_any">Apapun</string>
+    <string name="submit_feedback">Masukan Feedback</string>
+    <string name="wake_up_timer_cancelled">Timer Wake-up terbatalkan!</string>
+    <string name="presets_as_home_screen_summary">Tampilkan \"preset\" pada startup aplikasi (memerlukan restart aplikasi)</string>
+    <string name="intensity">Intensitas</string>
+    <plurals name="time_minutes">
+        <item quantity="other">%1$d menit</item>
+    </plurals>
+    <plurals name="time_hours">
+        <item quantity="other">%1$d jam</item>
+    </plurals>
+    <string name="time_bridge">dan</string>
+    <string name="wake_up_timer_schedule_set">Alarm akan mati dalam %1$s %2$s %3$s</string>
+    <string name="random_preset_description">Preset acak yang dihasilkan akan memiliki suara sesuai dengan suasana yang dipilih. Selain itu, preset padat akan berusaha memainkan lebih banyak suara secara bersamaan.</string>
+    <string name="unsaved_preset">Preset Belum Tersimpan</string>
+    <string name="skip_to_next">Preset berikutnya</string>
+    <string name="skip_to_prev">Preset sebelumnya</string>
+    <string name="pinned_shortcut_created">Pintasan telah ditambahkan ke layar beranda!</string>
+    <string name="pinned_shortcut_creation_failed">Gagal menambahkan pintasan ke layar beranda!</string>
+    <string name="appearance">Tampilan</string>
+    <string name="behavior">Perilaku</string>
+    <string name="settings">Pengaturan</string>
+    <string name="remove_from_app_shortcuts">Hapus dari pintasan aplikasi</string>
+    <string name="add_to_app_shortcuts">Tambah ke pintasan aplikasi</string>
+    <string name="invalid_import_file_format">Format berkas yang diimpor salah!</string>
+    <string name="failed_to_read_file">Gagal membaca berkas yang dipilih!</string>
+    <string name="failed_to_write_file">Gagal menulis di berkas yang telah dipilih!</string>
+    <string name="all_app_shortcuts_removed">Seluruh pintasan aplikasi telah dihapus!</string>
+    <string name="remove_all_app_shortcuts_confirmation">Tindakan ini akan menghapus semua pintasan preset dari daftar pintasan aplikasi. Yakin untuk melanjutkan\?</string>
+    <string name="remove_all_app_shortcuts">Hapus semua pintasan aplikasi</string>
+    <string name="import_presets_summary">Mengimpor preset dari berkas eksternal akan menimpa preset sebelumnya (jika ada)</string>
+    <string name="import_presets">Impor dari berkas</string>
+    <string name="export_presets_summary">Ekspor snapshot dari preset tersimpan saat ini ke berkas eksternal</string>
+    <string name="export_presets">Ekspor sebagai berkas</string>
+    <string name="share">Bagikan</string>
+    <string name="ignore_audio_focus_changes_summary_on">Jangan bereaksi ketika aplikasi lain memutar audio</string>
+    <string name="ignore_audio_focus_changes_summary_off">Jeda ketika aplikasi lain memutar audio</string>
+    <string name="ignore_audio_focus_changes">Abaikan perubahan fokus audio</string>
+    <string name="app_shortcut_creation_failed">Preset gagal ditambahkan ke pintasan aplikasi!</string>
+    <string name="app_shortcut_created">Preset telah ditambahkan ke pintasan aplikasi!</string>
+    <string name="app_shortcut_removed">Preset telah dihapus dari pintasan aplikasi!</string>
+    <string name="dense">Padat</string>
+    <string name="presets_as_home_screen">\"Preset\" sebagai layar beranda</string>
+    <string name="app_authors">Lihat daftar Penulis Kick Stress</string>
+    <string name="should_display_sound_icons">Tunjukkan ikon suara</string>
+    <string name="should_share_usage_data_summary">Secara otomatis berbagi data penggunaan dan perilaku dengan pengembang</string>
+    <string name="should_share_usage_data">Bagikan data penggunaan dan perilaku</string>
+    <string name="others">Lainnya</string>
+    <string name="decline">Tolak</string>
+    <string name="accept">Terima</string>
+    <string name="share_usage_data_consent_title">Preferensi Berbagi Data</string>
+    <string name="sound_fade_in_duration_summary">Durasi kelirihan bunyi (dalam detik)</string>
+    <string name="sound_fade_in_duration">Durasi kelirihan bunyi</string>
+    <string name="enable_media_buttons">Aktifkan tombol media</string>
+    <string name="failed_to_purchase">Gagal memulai alur pembayaran. Silakan coba lagi nanti!</string>
+    <string name="payment_pending">Kami akan memberi tahu Anda segera setelah kami selesai memproses pembayaran Anda.</string>
+    <string name="export_presets_successful">Berhasil mengekspor preset ke file!</string>
+    <string name="import_presets_successful">Berhasil mengimpor preset dari file!</string>
+    <string name="share_usage_data_consent_message">Kami mengumpulkan data penggunaan aplikasi untuk meningkatkan pengalaman pengguna. Kami juga mengumpulkan data perilaku aplikasi untuk menganalisis dan mendiagnosis kesalahan yang ditemukan selama penggunaan aplikasi. Baca [kebijakan privasi](https://ashutoshgngwr.github.io/noice/privacy-policy) kami untuk informasi lebih lanjut.
+\n
+\n Anda dapat mengonfigurasi berbagi data otomatis kapan saja di dalam aplikasi dengan membuka \"**Setelan** &gt; **Berbagi data penggunaan dan perilaku**\".</string>
+    <string name="failed_to_load_inapp_purchases">Gagal memuat detail pembelian dalam aplikasi. Silakan coba lagi nanti!</string>
+    <string name="created_by">Dibuat oleh</string>
+    <string name="enable_media_buttons_summary">Gunakan tombol media perangkat keras untuk mengontrol pemutaran</string>
+</resources>

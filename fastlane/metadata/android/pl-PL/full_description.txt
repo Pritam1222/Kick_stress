@@ -1,0 +1,35 @@
+Dla wielu osób niewielki hałas w tle pomaga się wyciszyć i skupić. W niektórych przypadkach pomaga również na wzrost produktywności. Hałas w tle (atmosfera) może również pomóc zminimalizować skutki stresu.
+
+Noice to aplikacja, która umożliwia tworzenie spersonalizowanej atmosfery za pomocą klipów ze źródeł hałasu otoczenia. Stwórz idealne otoczenie, łącząc różne dźwięki, aby zagłuszyć czynniki rozpraszające, dzięki czemu możesz skupić się na pracy lub stworzyć spokojne otoczenie, które zachęci Cię do zasypiania.
+
+<b> Funkcje </b>
+- 35 zarejestrowanych odgłosów
+- Wsparcie Google Cast (Chromecast) [tylko w Sklepie Play]
+- Automatyczny wyłącznik czasowy
+- Budzik
+- Generuj losowe miksy
+- Stwórz własną mieszankę
+- Zapisz swoje ulubione miksy
+- Graj obok innych odtwarzaczy muzycznych
+- Indywidualna regulacja głośności dla każdego źródła hałasu
+- Odtwarzanie offline
+- Jasne i ciemne warianty motywów aplikacji
+
+<b> Biblioteka szumów </b>
+- Zestaw życia (ptaki, świerszcze, wilk, bicie ludzkiego serca itp.)
+- Zestaw leśny (ognisko, noc, wiatr, palmy itp.)
+- zestaw monsunowy (deszcz, grzmoty)
+- Zestaw teleportacyjny (kawiarnia, biblioteka, biuro, morze, brzeg rzeki itp.)
+- Zestaw pojazdów (jadący pociąg, w locie, skrzypiący statek, samochód elektryczny itp.)
+- Surowy szum (biały, różowy, browna)
+
+<b> Uprawnienia </b>
+- <b>prevent device from sleeping</b>: aby procesor urządzenia był aktywny podczas odtwarzania
+- <b>run foreground service</b>: aby uruchomić proces odtwarzacza (inny niż UI)
+- <b>run at startup</b>: aby zapewnić, że liczniki czasu wybudzania będą się utrzymywać po ponownym uruchomieniu
+- <b>full network access</b>: aby włączyć Chromecasta i datki finansowe
+- <b>view network connections</b>: dodane przez zależność, obecnie nieużywane
+- <b>Google Play billing service</b>: aby umożliwić datki finansowe na wspieranie rozwoju
+
+Noice jest darmowym oprogramowaniem o otwartym kodzie źródłowym.
+https://github.com/ashutoshgngwr/noice

@@ -1,0 +1,99 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  package="com.github.ashutoshgngwr.noice">
+
+  <uses-feature
+    android:name="android.hardware.audio.output"
+    android:required="true" />
+
+  <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+  <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+  <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+
+  <application
+    android:name="com.github.ashutoshgngwr.noice.NoiceApplication"
+    android:allowBackup="true"
+    android:icon="@drawable/app_icon"
+    android:label="@string/app_name"
+    android:roundIcon="@drawable/app_icon"
+    android:supportsRtl="true"
+    android:theme="@style/Theme.App"
+    tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+
+    <activity
+      android:name=".activity.MainActivity"
+      android:exported="true"
+      android:launchMode="singleTask">
+
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+
+      <intent-filter>
+        <action android:name="android.intent.action.APPLICATION_PREFERENCES" />
+        <category android:name="android.intent.category.DEFAULT" />
+      </intent-filter>
+
+      <intent-filter>
+
+        <action android:name="android.intent.action.VIEW" />
+
+        <category android:name="android.intent.category.DEFAULT" />
+        <category android:name="android.intent.category.BROWSABLE" />
+
+        <data
+          android:host="ashutoshgngwr.github.io"
+          android:pathPrefix="/noice/preset"
+          android:scheme="https" />
+
+      </intent-filter>
+
+      <intent-filter>
+
+        <action android:name="android.intent.action.VIEW" />
+
+        <category android:name="android.intent.category.DEFAULT" />
+        <category android:name="android.intent.category.BROWSABLE" />
+
+        <data
+          android:host="preset"
+          android:scheme="noice" />
+
+      </intent-filter>
+
+    </activity>
+
+    <activity
+      android:name=".activity.AppIntroActivity"
+      android:theme="@style/Theme.MaterialComponents.NoActionBar" />
+
+    <activity
+      android:name=".activity.ShortcutHandlerActivity"
+      android:excludeFromRecents="true"
+      android:exported="true" />
+
+    <activity
+      android:name=".activity.AlarmRingerActivity"
+      android:excludeFromRecents="true"
+      android:launchMode="singleInstance" />
+
+    <service android:name=".MediaPlayerService" />
+
+    <receiver
+      android:name=".WakeUpTimerManager$BootReceiver"
+      android:exported="true">
+
+      <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED" />
+      </intent-filter>
+
+    </receiver>
+
+  </application>
+
+</manifest>

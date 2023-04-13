@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools">
+
+  <PreferenceCategory android:title="@string/behavior">
+
+    <SwitchPreferenceCompat
+      android:icon="@drawable/ic_settings_home_screen"
+      android:key="@string/presets_as_home_screen_key"
+      android:summary="@string/presets_as_home_screen_summary"
+      android:title="@string/presets_as_home_screen" />
+
+    <SeekBarPreference
+      android:defaultValue="1"
+      android:icon="@drawable/ic_settings_fade_in_duration"
+      android:key="@string/sound_fade_in_duration_key"
+      android:max="10"
+      android:summary="@string/sound_fade_in_duration_summary"
+      android:title="@string/sound_fade_in_duration"
+      app:min="0"
+      app:showSeekBarValue="true" />
+
+    <SwitchPreferenceCompat
+      android:icon="@drawable/ic_settings_audio_focus"
+      android:key="@string/ignore_audio_focus_changes_key"
+      android:summaryOff="@string/ignore_audio_focus_changes_summary_off"
+      android:summaryOn="@string/ignore_audio_focus_changes_summary_on"
+      android:title="@string/ignore_audio_focus_changes" />
+
+    <SwitchPreferenceCompat
+      android:defaultValue="true"
+      android:icon="@drawable/ic_settings_media_buttons"
+      android:key="@string/enable_media_buttons_key"
+      android:summary="@string/enable_media_buttons_summary"
+      android:title="@string/enable_media_buttons" />
+
+  </PreferenceCategory>
+
+  <PreferenceCategory android:title="@string/presets">
+
+    <Preference
+      android:icon="@drawable/ic_settings_export"
+      android:key="@string/export_presets_key"
+      android:summary="@string/export_presets_summary"
+      android:title="@string/export_presets" />
+
+    <Preference
+      android:icon="@drawable/ic_settings_import"
+      android:key="@string/import_presets_key"
+      android:summary="@string/import_presets_summary"
+      android:title="@string/import_presets" />
+
+    <Preference
+      android:icon="@drawable/ic_settings_delete_sweep"
+      android:key="@string/remove_all_app_shortcuts_key"
+      android:title="@string/remove_all_app_shortcuts" />
+
+  </PreferenceCategory>
+
+</PreferenceScreen>

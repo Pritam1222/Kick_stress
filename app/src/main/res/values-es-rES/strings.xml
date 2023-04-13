@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Acerca de</string>
+    <string name="app_theme">Tema</string>
+    <string name="help">Ayuda</string>
+    <string name="library">Biblioteca</string>
+    <string name="report_issue">Informar de problemas</string>
+    <string name="presets">Preajustes</string>
+    <string name="sleep_timer">Temporizador</string>
+    <string name="support_development">Apoyar al desarrollador</string>
+    <string name="wake_up_timer">Despertador</string>
+    <string name="cancel">Cancelar</string>
+    <string name="dismiss">Descartar</string>
+    <string name="name">Nombre</string>
+    <string name="pause">Pausar</string>
+    <string name="preset_already_exists">¡Ya existe un preajuste con ese nombre!</string>
+    <string name="preset_name_cannot_be_empty">¡El nombre del preajuste no puede estar vacío!</string>
+    <string name="preset_saved">¡Preajuste guardado!</string>
+    <string name="save">Guardar</string>
+    <string name="save_preset">Guardar preajuste</string>
+    <string name="play">Reproducir</string>
+    <string name="play_pause">Reproducir o pausar</string>
+    <string name="repeat_time_period">Periodo de repetición</string>
+    <string name="stop">Detener</string>
+    <string name="volume">Volumen del sonido</string>
+    <string name="sound_group__life">Vida</string>
+    <string name="sound_group__monsoon">Monzón</string>
+    <string name="sound_group__public_gatherings">Reuniones públicas</string>
+    <string name="sound_group__raw_noise">Ruido en crudo</string>
+    <string name="sound_group__times_of_day">Momentos del día</string>
+    <string name="sound_group__vehicles">Vehículos</string>
+    <string name="sound_group__water">Agua</string>
+    <string name="sound_group__wind">Viento</string>
+    <string name="airplane_inflight">Avión en vuelo</string>
+    <string name="airplane_seatbelt_beeps">Señal cinturón del avión</string>
+    <string name="birds">Pájaros</string>
+    <string name="bonfire">Fogata</string>
+    <string name="brownian_noise">Ruido marrón</string>
+    <string name="coffee_shop">Cafetería</string>
+    <string name="creaking_ship">Barco crujiente</string>
+    <string name="crickets">Grillos</string>
+    <string name="distant_thunder">Truenos lejanos</string>
+    <string name="electric_car">Carro eléctrico</string>
+    <string name="heavy_rain">Lluvia fuerte</string>
+    <string name="howling_wolf">Lobo aullando</string>
+    <string name="human_heartbeat">Latido del corazón humano</string>
+    <string name="light_rain">Lluvia suave</string>
+    <string name="moderate_rain">Lluvia moderada</string>
+    <string name="morning_in_a_village">Una mañana en un pueblo</string>
+    <string name="moving_train">Tren en movimiento</string>
+    <string name="night">Noche</string>
+    <string name="office">Oficina</string>
+    <string name="pink_noise">Ruido rosa</string>
+    <string name="public_library">Biblioteca pública</string>
+    <string name="purring_cat">Gato ronroneando</string>
+    <string name="quiet_conversation">Conversación tranquila</string>
+    <string name="rolling_thunder">Retumbado de truenos</string>
+    <string name="screeching_seagulls">Gaviotas chillando</string>
+    <string name="seaside">Orilla del mar</string>
+    <string name="soft_wind">Viento suave</string>
+    <string name="thunder_crack">Rugido de truenos</string>
+    <string name="train_horn">Bocina de tren</string>
+    <string name="walking_through_the_snow">Caminata sobre la nieve</string>
+    <string name="water_hose">Manguera de agua</string>
+    <string name="water_stream">Corriente de agua</string>
+    <string name="white_noise">Ruido blanco</string>
+    <string name="wind_in_chimes_of_shells">Brisa sonajero de viento</string>
+    <string name="wind_in_palm_trees">Brisa palmeras</string>
+    <string name="delete">Eliminar</string>
+    <string name="open_context_menu">Abrir menú contextual</string>
+    <string name="preset_delete_confirmation">¿Confirma que quiere eliminar «%s»\?</string>
+    <string name="preset_deleted">¡Preajuste borrado!</string>
+    <string name="preset_info__description">No ha creado ningún preajuste. Para crearlo, vaya a la biblioteca y reproduce los sonidos que quiera. Luego haga clic en el botón Guardar que aparece en la esquina inferior de la pantalla.</string>
+    <string name="rename">Cambiar nombre</string>
+    <string name="auto_sleep_schedule_cancelled">¡Temporizador cancelado!</string>
+    <string name="reset">Restablecer</string>
+    <string name="sleep_timer_description">Kick Stress se apagará solo cuando el temporizador termine. Use los botones de abajo para añadir tiempo e iniciar el temporizador.</string>
+    <string name="schedule">Temporizador</string>
+    <string name="select_preset">Seleccionar preajuste</string>
+    <string name="wake_up_timer_description">Kick Stress iniciará el preajuste seleccionado cuando finalice el temporizador. Use los siguientes botones para seleccionar un preajuste y establecer la hora deseada para iniciar el despertador.</string>
+    <string name="app_theme_light">Claro</string>
+    <string name="app_theme_dark">Oscuro</string>
+    <string name="app_theme_system_default">Por defecto del sistema</string>
+    <string name="app_description">Relájese y aumente la productividad con un mínimo ruido de fondo.</string>
+    <string name="appintro__chromecast_desc">
+    Utilice Noise para transmitir su ambiente a otros dispositivos conectados a Chromecast, como altavoces, televisores, etc.
+  </string>
+    <string name="appintro__chromecast_title">Chromecast activado</string>
+    <string name="appintro__getting_started_desc_0">¡Desliza hacia la izquierda para conocer todas las funciones!</string>
+    <string name="appintro__getting_started_desc_1">¡Empecemos!</string>
+    <string name="appintro__getting_started_title">Bienvenidos</string>
+    <string name="appintro__presets_desc">Después de reproducir algunos sonidos, puede usar el botón guardar en la esquina inferior para guardar la mezcla. Para reutilizar una mezcla almacenada, vaya a la lista de preajustes de la barra inferior.</string>
+    <string name="appintro__presets_title">Guarde sus mezclas preferidas</string>
+    <string name="appintro__library_desc">
+    Utilice el control deslizante de volumen para ajustar los volúmenes de sonido. En cada repetición de sonidos sin bucle, un periodo
+    prolongado se selecciona aleatoriamente del rango establecido por el control deslizante de tiempo.
+  </string>
+    <string name="appintro__library_title">Cree su entorno perfecto</string>
+    <string name="appintro__timer_desc">
+    Un poco de ambiente puede ayudarle a conciliar el sueño sin esfuerzo. Use el temporizador de apagado para permitir que Kick Stress se apague.
+    De manera similar, para despertarse en un ambiente tranquilo, use el temporizador de despertador para configurar la alarma.
+  </string>
+    <string name="appintro__timer_title">¿Problemas para conciliar el sueño o para despertar?</string>
+    <string name="support_development__donate">Donar</string>
+    <string name="support_development__donate_description">
+    Las donaciones nos ayudarán a\n
+    - invertir en nuevas funciones\n
+    - curar mejores muestras de sonido\n
+    - comprar café\n
+  </string>
+    <string name="support_development__donate_google_play_description">Su pago será manejado de forma segura por Google Play. Dependiendo de su ubicación, se pueden agregar impuestos adicionales al monto final.</string>
+    <string name="support_development__donate_thank_you">Gracias!</string>
+    <string name="support_development__donate_thank_you_description">
+    Le agradecemos de todo corazón su generosa contribución al proyecto Noise.
+  </string>
+    <string name="support_development__share">Compartir con amigos</string>
+    <string name="support_development__share_description">Comparte Kick Stress con amigos es una alternativa a las donaciones. Cuantas mas descargas, podremos recibir comentarios desde diferentes perspectivas que nos ayudará a hacer de Kick Stress mejor que nunca.</string>
+    <string name="support_development__why">¿Por qué debería apoyar\?</string>
+    <string name="support_development__why_description">- Para garantizar futuras actualizaciones
+\n- Para mantener Kick Stress libre de anuncios siempre
+\n</string>
+    <string name="cast_media">Conectar a Chromecast</string>
+    <string name="notification_channel_default__description">Controles de reproducción de medios</string>
+    <string name="notification_channel_default__name">Reproducción de medios</string>
+    <string name="dense">Densa</string>
+    <string name="mood_any">Cualquiera</string>
+    <string name="intensity_any">Cualquiera</string>
+    <string name="submit_feedback">Enviar comentarios</string>
+    <string name="intensity">Intensidad</string>
+    <string name="relax">Relajado</string>
+    <string name="random_preset">Preajuste aleatorio</string>
+    <string name="mood">Ambiente</string>
+    <string name="light">Ligero</string>
+    <string name="focus">Concetrado</string>
+    <string name="never">Nunca</string>
+    <string name="later">Más tarde</string>
+    <string name="in_app_feedback__title">Enviar una reseña</string>
+    <string name="in_app_feedback__description">Nos encantaría saber que le parece la aplicación. Por favor, tómese un momento para visitar nuestro repositorio de GitHub. Si no le gustó la aplicación, considere abrir un reporte para explicar su malestar. De lo contrario, dele una estrella al proyecto para mostrar amor y apoyo.</string>
+    <plurals name="time_minutes">
+        <item quantity="one">%1$d minuto</item>
+        <item quantity="other">%1$d minutos</item>
+    </plurals>
+    <plurals name="time_hours">
+        <item quantity="one">%1$d hora</item>
+        <item quantity="other">%1$d horas</item>
+    </plurals>
+    <string name="time_bridge">y</string>
+    <string name="wake_up_timer_schedule_set">La alarma sonará en %1$s %2$s %3$s</string>
+    <string name="wake_up_timer_cancelled">¡Despertador cancelado!</string>
+    <string name="presets_as_home_screen_summary">Mostrar \"preajustes\" al iniciar la aplicación (requiere reiniciar la aplicación)</string>
+    <string name="preset_does_not_exist">El preajuste no existe. ¡Puede haber sido borrada!</string>
+    <string name="add_to_home_screen">Añadir a la pantalla de inicio</string>
+    <string name="okay">Vale</string>
+    <string name="pinned_shortcuts_not_supported">Su aplicación de inicio predeterminada no admite añadir accesos directos.</string>
+    <string name="random_preset_description">Los preajustes generados aleatoriamente contendrán sonidos correspondientes al ambiente elegido. Además, los preajustes densos intentarán reproducir más sonidos simultáneamente.</string>
+    <string name="app_authors">Ver la lista de los autores de Kick Stress</string>
+    <string name="appearance">Apariencia</string>
+    <string name="behavior">Comportamiento</string>
+    <string name="presets_as_home_screen">\"Preajustes\" como pantalla de inicio</string>
+    <string name="settings">Configuración</string>
+    <string name="remove_from_app_shortcuts">Quitar de atajos de aplicación</string>
+    <string name="add_to_app_shortcuts">Añadir a atajos de aplicación</string>
+    <string name="invalid_import_file_format">¡El formato del archivo de importación no es valido!</string>
+    <string name="import_presets">Importar desde un archivo</string>
+    <string name="export_presets_summary">Exportar la instantánea actual de preajustes guardados a un archivo externo</string>
+    <string name="export_presets">Exportar a un archivo</string>
+    <string name="share">Compartir</string>
+    <string name="ignore_audio_focus_changes_summary_on">No hacer nada cuando otras aplicaciones reproduzcan audio</string>
+    <string name="ignore_audio_focus_changes_summary_off">Pausar cuando otras aplicaciones reproduzcan audio</string>
+    <string name="unsaved_preset">Preajuste sin guardar</string>
+    <string name="skip_to_next">Preajuste siguiente</string>
+    <string name="skip_to_prev">Preajuste anterior</string>
+    <string name="pinned_shortcut_created">¡Se ha añadido un acceso directo a la pantalla de inicio!</string>
+    <string name="pinned_shortcut_creation_failed">¡No se pudo añadir el acceso directo a la pantalla de inicio!</string>
+    <string name="app_shortcut_creation_failed">¡No se pudo añadir el preajuste a los accesos directos de la aplicación!</string>
+    <string name="app_shortcut_created">¡Se ha añadido un preajuste a los accesos directos de la aplicación!</string>
+    <string name="app_shortcut_removed">¡Se ha eliminado el preajuste de los accesos directos a aplicaciones!</string>
+    <string name="all_app_shortcuts_removed">Se han quitado todos los atajos de la aplicación!</string>
+    <string name="remove_all_app_shortcuts_confirmation">Se quitarán todos los atajos a los preajustes del menú de atajos de la aplicación. ¿Quiere continuar\?</string>
+    <string name="ignore_audio_focus_changes">Ignorar cambios de foco del audio</string>
+    <string name="remove_all_app_shortcuts">Eliminar todos los atajos de la aplicación</string>
+    <string name="import_presets_summary">Importar preajustes desde un archivo externo sobreescribirá los existentes</string>
+    <string name="failed_to_write_file">No se pudo escribir en el archivo seleccionado!</string>
+    <string name="failed_to_read_file">No se pudo leer el archivo seleccionado!</string>
+    <string name="failed_to_purchase">No se ha podido iniciar el flujo de pagos. Vuelve a intentarlo más tarde!</string>
+    <string name="failed_to_load_inapp_purchases">¡No se han podido cargar los detalles de la compra en la aplicación. Vuelve a intentarlo más tarde!</string>
+    <string name="should_share_usage_data_summary">Compartir automáticamente los datos de uso con los desarrolladores</string>
+    <string name="should_share_usage_data">Compartir datos de uso</string>
+    <string name="others">Otros</string>
+    <string name="accept">Aceptar</string>
+    <string name="decline">Descartar</string>
+    <string name="created_by">Creado por</string>
+    <string name="payment_pending">Te notificaremos en cuanto terminemos de procesar tu pago.</string>
+    <string name="should_display_sound_icons">Mostrar iconos de sonido</string>
+    <string name="export_presets_successful">¡Preajustes exportados con éxito al archivo!</string>
+    <string name="import_presets_successful">¡Preajustes importados con éxito del archivo!</string>
+    <string name="share_usage_data_consent_message">Recopilamos datos de uso de la aplicación para mejorar la experiencia del usuario. También recopilamos datos de comportamiento de la aplicación para analizar y diagnosticar errores encontrados durante el uso de la aplicación. Lea nuestra [Política de privacidad] (https://ashutoshgnggwr.github.io/noice/privacy-policy) para obtener más información.
+\n
+\n Puede configurar el intercambio automático de datos en cualquier momento dentro de la aplicación yendo a \"**Configuración** &gt; **Compartir el uso y los datos de comportamiento**\".</string>
+    <string name="share_usage_data_consent_title">Preferencias para Compartir Datos</string>
+    <string name="enable_media_buttons">Activar botones multimedia</string>
+    <string name="enable_media_buttons_summary">Utilice botones de medios de hardware para controlar la reproducción</string>
+    <string name="sound_fade_in_duration">Duración del desvanecimiento del sonido</string>
+    <string name="sound_fade_in_duration_summary">Duración del tiempo para el desvanecimiento de sonidos (en segundos)</string>
+</resources>
